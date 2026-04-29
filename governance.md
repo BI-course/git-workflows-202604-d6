@@ -20,3 +20,6 @@ Examples of PII
 Direct PII - Full name, National ID number, passport number
 Contact PII - Email address, phone number, physical address
 Financial PII - Bank account number, credit card details, salary
+
+Data Privacy and Compliance.
+Data privacy and compliance focus on ensuring that personal and sensitive data is handled in accordance with legal, ethical, and regulatory requirements. Organizations must collect, process, store, and share data in a way that respects individuals’ rights and protects their information from misuse. This subtopic is closely tied to data governance because it enforces accountability and transparency in how data is used, especially when dealing with Personally Identifiable Information (PII).
